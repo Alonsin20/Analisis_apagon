@@ -1,2 +1,2 @@
 # Analisis_apagon
-En este repositorio se analiza el impacto del apagón de España en el número de commits diarios.
+Este análisis adapta el estudio original del apagón de internet de Bangladesh a un evento similar en España durante abril de 2025: primero definimos con precisión el periodo en que se produjo la interrupción 28 y 29 de abril y seleccionamos España como país afectado; a continuación elegimos dos países de control Inglaterra y Francia que, por su proximidad geográfica y características socioeconómicas parecidas, no experimentaron cortes de conectividad en esas fechas, lo que nos permitirá aislar el efecto del blackout sobre la actividad de los usuarios de GitHub.
